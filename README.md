@@ -1,5 +1,7 @@
 The Everything App (Working Title)
+
 ⚡ The Manifesto: Ending Digital Feudalism
+
 The current "Gig Economy" is a refined system of digital slavery. Tech oligarchs—Uber, DoorDash, Meta, Amazon—have built "toll booths" between human needs and human labor. They own the code, they harvest the data, and they extract 30% or more of every transaction while providing none of the actual service.
 
 We are reclaiming the infrastructure of modern life.This is not a company. It is a Platform Cooperative. It is a self-evolving, modular web application that aims to replace every extractive platform with a version owned by the people who build and use it.
