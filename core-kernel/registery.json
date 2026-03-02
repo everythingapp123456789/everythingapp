@@ -1,0 +1,24 @@
+{
+  "system_name": "The Everything App",
+  "version": "0.1.0-genesis",
+  "total_global_shares": 1000,
+  "treasury": {
+    "balance_usd": 0,
+    "physical_assets": [],
+    "reserve_ratio": 0.05
+  },
+  "layers": {
+    "the_grid": {"shares_allocated": 0, "contributors": []},
+    "the_market": {"shares_allocated": 0, "contributors": []},
+    "the_forge": {"shares_allocated": 0, "contributors": []},
+    "the_vault": {"shares_allocated": 0, "contributors": []}
+  },
+  "global_ledger": [
+    {
+      "identity": "everythingapp123456789",
+      "role": "Founder/Architect",
+      "shares": 100,
+      "contributions": ["Initial Manifesto", "Core Architecture"]
+    }
+  ]
+}
